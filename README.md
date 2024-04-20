@@ -6,4 +6,4 @@ layout: page
 
 ## Author
 
-Management Consulting, Business Development, Sales
+Sales, Business Development, Management Consulting
