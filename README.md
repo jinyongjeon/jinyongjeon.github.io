@@ -4,6 +4,6 @@ permalink: "/about/"
 layout: page
 ---
 
-## Author
+### Author
 
 Sales, Business Development, Management Consulting
